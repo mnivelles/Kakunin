@@ -123,7 +123,8 @@ For unsupported types or specific case validations, there is a special validatio
 
 ### List of Validation
 
-You can find the full list of validation on the [Validation](https://example.com) page.
+You can find the full list of validation on the [Validation](https://mnivelles.github.io/Kakunin/documentation/kakunin/validation) page.
+You can look at `Tests/KakuninTests` folder for more infos.
 
 #### BinaryInteger
 
@@ -350,7 +351,7 @@ struct PersonScene: View {
 
 ## Documentation
 
-Full API reference and guides are hosted on the [Documentation](https://example.com).
+Full API reference and guides are hosted on the [Documentation](https://mnivelles.github.io/Kakunin/documentation/kakunin/).
 
 ## License
 
