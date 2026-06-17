@@ -31,8 +31,8 @@ public struct Validate<Value> {
     private(set) var result: Result = .init(isValid: true, errors: [])
     
     public struct Result {
-        let isValid: Bool
-        let errors: [String]
+        public let isValid: Bool
+        public let errors: [String]
     }
     
     public var wrappedValue: Value {
